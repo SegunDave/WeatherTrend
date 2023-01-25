@@ -69,7 +69,7 @@ BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 st.sidebar.markdown(
             """
     ## Project Overview
-    Weather App dashboard is an app that...
+    Weather App Dashboard monitors the current situation of weather across specified country/city...
     Get started already!""")    
 
   
