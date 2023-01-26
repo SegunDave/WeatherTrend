@@ -59,7 +59,7 @@ def add_bg_from_url():
 
 add_bg_from_url()
 
-st.sidebar.image("https://lh6.googleusercontent.com/28Z-ruLPUFRdtMzGIOIgb0atJPNJgTtvhanzgho7cZDPrDQfyKHhL05yJXDGOd_Z9co=w2400", use_column_width=True)
+st.sidebar.image("https://www.urbanwhales.com/assets/img/brand/urbanwhales.svg", use_column_width=True)
 
 api=st.secrets["api_key"]
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
