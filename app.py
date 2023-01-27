@@ -277,6 +277,7 @@ st.sidebar.markdown(
     # Other App(s)
  
     1. [Crypto Converter Dashboard](https://crypto-conv.streamlit.app/)
+    2. [Market Breath](https://marketbreath.streamlit.app/)
     """)
     
 st.sidebar.markdown(
